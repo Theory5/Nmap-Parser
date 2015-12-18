@@ -1,4 +1,9 @@
 #!/usr/bin/perl
+#  This is a modified version of NMAP2DB script developed by user modernistik and originally written by ANTHONY G PERSAUD
+#  The aim of this modification is to have this script send the data to the OpenWebSpider's main DB for spidering needs,
+#  and store the rest within a separate mysql DB!
+#  __________________________________________________________________________________________
+#  __________________________________________________________________________________________
 #  THIS IS A MODIFIED VERSION OF NMAP2SQLITE SCRIPT ORIGINALLY DEVELOPED BY ANTHONY G PERSAUD
 #  BUT MODIFIED TO WORK WITH MYSQL DATABASES BY ROBIN BOWES.  
 #  nmap2db.pl
